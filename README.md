@@ -4,6 +4,8 @@ Calculate the price after a discount and how much you save, or reverse it to fin
 
 **Live app:** https://abood-ayman.github.io/discount-calculator-ar/
 
+**LinkedIn:** [Project entry](https://www.linkedin.com/in/abdullah-ayman-1678b737b/details/projects/)
+
 ![Discount Calculator, mobile view](docs/screenshot.svg)
 
 This is a personal project, built with AI tools.
