@@ -1,27 +1,26 @@
-# حاسبة الخصم
+# Discount Calculator | حاسبة الخصم
 
-السعر بعد الخصم وكم توفر فعلًا — أو السعر الأصلي قبل العرض
+Calculate the price after a discount and how much you save, or reverse it to find the original price. Arabic interface.
 
-**رابط الأداة (تعمل فورًا من المتصفح):** https://abood-ayman.github.io/discount-calculator-ar/
+**Live app:** https://abood-ayman.github.io/discount-calculator-ar/
 
-## ما الذي تقدمه؟
+![Discount Calculator, mobile view](docs/screenshot.svg)
 
-- السعر النهائي وقيمة ما وفرته من نسبة الخصم
-- الحساب العكسي: اعرف السعر الأصلي من سعر ما بعد الخصم
-- خصم إضافي (خصم على خصم) لعروض المتاجر المركبة
+This is a personal project, built with AI tools.
 
-## الخصوصية
+## Features
+- Final price and amount saved from a discount percentage
+- Reverse calculation: original price from the discounted price
+- Stacked discount (discount on discount) for combined store offers
 
-تعمل الأداة بالكامل داخل متصفحك (HTML/CSS/JavaScript فقط). لا يوجد خادم، ولا حسابات، ولا تتبّع، ولا تُرسل أو تُحفظ أي بيانات تدخلها خارج جهازك.
+## Privacy
+Everything runs in your browser. No data is stored or sent anywhere.
 
-## التقنية
+## Run locally
+Open `index.html` in any browser. It is a single static page with no dependencies.
 
-صفحة ثابتة واحدة بلا أي مكتبات خارجية، تعمل على الهاتف والحاسوب، وتُستضاف مجانًا عبر GitHub Pages.
+## Status
+Stable.
 
-## ملاحظة شفافية
-
-بُنيت هذه الأداة بمساعدة أدوات ذكاء اصطناعي، ورُوعيَت بساطتها وفائدتها المباشرة.
-
-## الرخصة
-
-MIT — انظر ملف LICENSE.
+## Copyright
+MIT License - Copyright (c) 2026 Abdullah Ayman.
